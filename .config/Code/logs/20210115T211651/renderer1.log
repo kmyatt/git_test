@@ -1,0 +1,9 @@
+[2021-01-15 21:16:52.758] [renderer1] [error] Error: Unable to read file '/home/myattangelo/test.txt' (Error: Unable to resolve non-existing file '/home/myattangelo/test.txt')
+    at Object.t.createErrorWithActions (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:56:955)
+    at w.handleSetInputError (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6366:120)
+    at w.handleSetInputError (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6368:776)
+    at w.setInput (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6365:827)
+    at async p.doSetInput (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4688:840)
+    at async p.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4687:425)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7002:617
+    at async e.restoreEditors (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6995:609)

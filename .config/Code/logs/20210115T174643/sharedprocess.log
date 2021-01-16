@@ -1,0 +1,9 @@
+[2021-01-15 17:46:47.373] [sharedprocess] [info] main {"machineId":"b607bbfa9fb85257da5cd024509fbe95b0041d79231070373291ef68ebabec0f","windowId":2}
+[2021-01-15 17:46:47.454] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/myattangelo/.config/Code/User/snippets'
+[2021-01-15 17:47:27.397] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-01-15 17:53:29.910] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2021-01-15 17:53:30.798] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver undefined
+[2021-01-15 17:53:35.624] [sharedprocess] [info] Extracted extension to /home/myattangelo/.vscode/extensions/.ritwickdey.liveserver-5.6.1: ritwickdey.liveserver
+[2021-01-15 17:53:35.624] [sharedprocess] [info] Renamed to /home/myattangelo/.vscode/extensions/ritwickdey.liveserver-5.6.1
+[2021-01-15 17:53:35.625] [sharedprocess] [info] Installation completed. ritwickdey.liveserver
+[2021-01-15 17:53:35.702] [sharedprocess] [info] Extensions installed successfully: ritwickdey.liveserver
